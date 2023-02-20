@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jainam
-- 👀 I’m interested in web Devlopment & Data Science
-- 🌱 I’m currently learning web Devlopment
+- 👀 I’m interested in web Development & Data Science
+- 🌱 I’m currently learning web Development
 - 📫 How to reach me:jainam1228@gmail.com
 
 <!---
